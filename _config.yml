@@ -4,7 +4,7 @@
 # 3. config.yml
 
 name: Remote Teams
-description: Companies with Remote Teams.
+description: Companies with Distributed Remote Teams.
 author:
   name: Brajeshwar Oinam
   email: brajeshwar@gmail.com
@@ -34,3 +34,6 @@ markdown: kramdown
 #   png_url:    /images/latex
 
 pygments: false
+
+# base
+baseurl: "http://0.0.0.0:9000"
