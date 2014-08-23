@@ -14,10 +14,6 @@
   url: www.articulate.com
   job: www.articulate.com/company/careers.php
 
-- name: Lullabot
-  url: www.lullabot.com
-  job: www.lullabot.com/jobs
-
 - name: Assembla
   url: www.assembla.com
   job: www.assembla.com/team#jobs
@@ -46,6 +42,10 @@
   url: www.invisionapp.com
   job: www.invisionapp.com/company#jobs
 
+- name: Lullabot
+  url: www.lullabot.com
+  job: www.lullabot.com/jobs
+
 - name: Mozilla
   url: mozilla.org
   job: careers.mozilla.org
@@ -61,6 +61,10 @@
 - name: SitePen
   url: www.sitepen.com
   job: www.sitepen.com/about/jobs.html
+
+- name: Sqwiggle
+  url: www.sqwiggle.com
+  job: angel.co/sqwiggle/jobs
 
 - name: Upworthy
   url: www.upworthy.com
