@@ -1,0 +1,51 @@
+- name: Automattic
+  url: automattic.com
+  job: automattic.com/work-with-us
+
+- name: Assembla
+  url: www.assembla.com
+  job: www.assembla.com/team#jobs
+
+- name: Basecamp
+  url: basecamp.com
+  job: basecamp.com/about
+
+- name: Buffer
+  url: bufferapp.com
+  job: jobs.bufferapp.com
+
+- name: FlexJobs
+  url: www.flexjobs.com
+  job: www.flexjobs.com/FlexJobsTeam.aspx
+
+- name: Groove
+  url: groovehq.com
+  job: groovehq.com
+
+- name: Invision
+  url: www.invisionapp.com
+  job: www.invisionapp.com/company#jobs
+
+- name: Mozilla
+  url: mozilla.org
+  job: careers.mozilla.org
+
+- name: Olark
+  url: www.olark.com
+  job: www.olark.com/jobs
+
+- name: Site5
+  url: www.site5.com
+  job: www.site5.com/about/careers
+
+- name: SitePen
+  url: www.sitepen.com
+  job: www.sitepen.com/about/jobs.html
+
+- name: Upworthy
+  url: www.upworthy.com
+  job: www.upworthy.com/jobs
+
+- name: Zapier
+  url: zapier.com
+  job: zapier.com/blog/help-automate-business-zapier-jobs-and-careers
