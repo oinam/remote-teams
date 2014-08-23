@@ -106,6 +106,8 @@ module.exports = function (grunt) {
         bundleExec: true,
         debugInfo: false,
         lineNumbers: false,
+        style: 'expanded',
+        precision: '7',
         loadPath: 'app/_bower_components'
       },
       dist: {
@@ -119,7 +121,7 @@ module.exports = function (grunt) {
       },
       server: {
         options: {
-          debugInfo: true,
+          debugInfo: false,
           lineNumbers: true
         },
         files: [{

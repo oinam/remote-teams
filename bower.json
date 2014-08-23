@@ -1,6 +1,10 @@
 {
   "name": "remote-teams",
   "version": "1.0.0",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "normalize-scss": "~3.0.1",
+    "bootstrap-sass-official": "~3.2.0+1"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "remote-teams",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "Companies with Remote Teams.",
   "dependencies": {},
