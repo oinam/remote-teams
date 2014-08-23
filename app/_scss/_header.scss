@@ -21,6 +21,8 @@
 
 
 .meta-cta {
+  padding: $line-height-computed/3 0 0;
+
   @media (min-width: $screen-sm-min) {
     text-align: right;
   }
