@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 
-<title>{%if page.id == "home" %}{{ site.name }}{% else %}{{ page.title }} - {{ site.name }}{% endif %}</title>
+<title>{%if page.id == "home" %}{{ site.name }} - {{ site.description }} {% else %}{{ page.title }} - {{ site.name }}{% endif %}</title>
 
 <!-- build:css({app,.tmp}) /styles/main.css -->
 <link rel="stylesheet" href="/styles/main.css">
@@ -19,7 +19,7 @@
     <div class="row">
       <div class="col-xs-12 col-sm-6">
         <h1 class="header__title">{{ site.name }}</h1>
-        <h2 class="header__tagline">{{ site.description }}</h2>
+        <h2 class="header__desc">{{ site.description }}</h2>
       </div>
       <div class="col-xs-12 col-sm-6">
         <aside class="meta-cta">
