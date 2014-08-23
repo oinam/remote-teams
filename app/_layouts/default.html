@@ -1,45 +1,36 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
 
-        <!-- build:css({app,.tmp}) /styles/main.css -->
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/styles/main.css">
-        <!-- endbuild -->
+<title>{%if page.id == "home" %}{{ site.name }}{% else %}{{ page.title }} - {{ site.name }}{% endif %}</title>
 
-    </head>
-    <body>
+<!-- build:css({app,.tmp}) /styles/main.css -->
+<link rel="stylesheet" href="/styles/main.css">
+<!-- endbuild -->
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+</head>
+<body>
 
-          {{ content }}
+<header class="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-6">
+        <h1 class="header__title">{{ site.name }}</h1>
+        <h2 class="header__tagline">{{ site.description }}</h2>
+      </div>
+      <div class="col-xs-12 col-sm-6">
+        <aside class="meta-cta">
+          Fork Me
+        </aside>
+      </div>
+    </div>
+  </div>
+</header>
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Brajeshwar Oinam<br />
-                <a href="mailto:brajeshwar@oinam.com">brajeshwar@oinam.com</a>
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
+{{ content }}
 
-    <!-- build:js(app) /scripts/scripts.js -->
-    <script src="/scripts/main.js"></script>
-    <!-- endbuild -->
-    </body>
+</body>
 </html>
