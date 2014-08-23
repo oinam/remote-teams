@@ -1,0 +1,27 @@
+.header {
+  margin: $line-height-computed auto;
+}
+
+.header__title {
+  font-size: $font-size-h2;
+  color: $color-primary;
+  text-transform: uppercase;
+  font-weight: $font-weight-light;
+  margin: 0.1em 0;
+  padding: 0;
+}
+
+.header__tagline {
+  font-size: $font-size-h4;
+  font-weight: $font-weight-light;
+  color: lighten($gray-light, 10);
+  margin: 0;
+  padding: 0;
+}
+
+
+.meta-cta {
+  @media (min-width: $screen-sm-min) {
+    text-align: right;
+  }
+}
