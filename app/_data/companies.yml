@@ -1,10 +1,30 @@
-- name: Automattic
-  url: automattic.com
-  job: automattic.com/work-with-us
+- name: 10up
+  url: 10up.com
+  job: 10up.com/careers
+
+- name: AppendTo
+  url: appendto.com
+  job: appendto.com/careers
+
+- name: Art & Logic
+  url: www.artandlogic.com
+  job: www.artandlogic.com/careers
+
+- name: Articulate
+  url: www.articulate.com
+  job: www.articulate.com/company/careers.php
+
+- name: Lullabot
+  url: www.lullabot.com
+  job: www.lullabot.com/jobs
 
 - name: Assembla
   url: www.assembla.com
   job: www.assembla.com/team#jobs
+
+- name: Automattic
+  url: automattic.com
+  job: automattic.com/work-with-us
 
 - name: Basecamp
   url: basecamp.com
