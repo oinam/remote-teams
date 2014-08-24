@@ -74,6 +74,10 @@
   url: www.upworthy.com
   job: www.upworthy.com/jobs
 
+- name: Xerox
+  url: www.xerox.com
+  job: xerox-virtual.jobs
+
 - name: Zapier
   url: zapier.com
   job: zapier.com/blog/help-automate-business-zapier-jobs-and-careers
