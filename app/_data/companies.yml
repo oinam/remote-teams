@@ -2,6 +2,10 @@
   url: 10up.com
   job: 10up.com/careers
 
+- name: ADP
+  url: www.adp.com
+  job: www.adp.com/careers.aspx
+
 - name: AppendTo
   url: appendto.com
   job: appendto.com/careers
@@ -29,6 +33,10 @@
 - name: Buffer
   url: bufferapp.com
   job: jobs.bufferapp.com
+
+- name: Dell
+  url: www.dell.com
+  job: jobs.dell.com/search/remote
 
 - name: FlexJobs
   url: www.flexjobs.com
