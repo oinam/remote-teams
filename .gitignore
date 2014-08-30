@@ -1,5 +1,3 @@
-# .gitignore for Yeoman-Jekyll projects
-
 *.sublime-project
 *.sublime-workspace
 app/_bower_components
