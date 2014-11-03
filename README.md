@@ -20,6 +20,12 @@ $ npm install
 $ grunt serve
 ```
 
+#### Build and Push to Github's Page
+
+```
+$ grunt build
+```
+
 ### Contribute, Pull Request
 
 Add companies that have distributed remote teams and encourage remote working. Send in your [Pull Request](https://help.github.com/articles/creating-a-pull-request).
