@@ -20,10 +20,10 @@ $ npm install
 $ grunt serve
 ```
 
-#### Build and Push to Github's Page
+#### Build and Deploy to Github's Page
 
 ```
-$ grunt build
+$ grunt deploy
 ```
 
 ### Contribute, Pull Request
