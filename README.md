@@ -10,6 +10,7 @@ Powered by [Jekyll](http://jekyllrb.com/) and managed with [Bower](http://bower.
 2. Install Libraries
 
 ```
+$ bundle
 $ bower install
 $ npm install
 ```
