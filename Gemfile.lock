@@ -70,4 +70,4 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 2.5.3)
   maruku
-  sass (>= 3.2)
+  sass (>= 3.4.9)
