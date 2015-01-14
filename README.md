@@ -2,36 +2,23 @@
 
 > An open list of companies with Distributed Remote Teams.
 
-### Develop
-
-Powered by [Jekyll](http://jekyllrb.com/) and managed with [Bower](http://bower.io/), [Node](http://nodejs.org/) and [Grunt](http://gruntjs.com/).
-
-1. Fork the repository.
-2. Install Libraries
-
-```
-$ bundle
-$ bower install
-$ npm install
-```
+Powered by [Jekyll](http://jekyllrb.com/) and deployed on Github.
 
 #### Run locally
 
 ```
-$ grunt serve
+$ jekyll serve
 ```
 
-#### Build and Deploy to Github's Page
+#### Deploy to Github's Page
 
-```
-$ grunt deploy
-```
+Push the ```gh-pages``` branch to Github.
 
 ### Contribute, Pull Request
 
 Add companies that have distributed remote teams and encourage remote working. Send in your [Pull Request](https://help.github.com/articles/creating-a-pull-request).
 
-Company details - Name, URL, Jobs URL are to be added to ```'app/_data/companies.yml'```. Remember to order them alphabetically.
+Company details - Name, URL, Jobs URL are to be added to ```'_data/companies.yml'```. Remember to order them alphabetically.
 
 #### LICENSE
 

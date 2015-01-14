@@ -1,39 +1,5 @@
-# Jekyll configuration precedence:
-# 1. Gruntfile task
-# 2. config.build.yml
-# 3. config.yml
-
 name: Remote Teams
 description: An open list of companies with Distributed Remote Teams.
-author:
-  name: Brajeshwar Oinam
-  email: brajeshwar@gmail.com
 
-# Grunt handles images and assets.
-exclude: ['images', 'styles', 'scripts', 'fonts',
-          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
-
-include: ['.htaccess']
-
-# Default post path style
-# date  /:categories/:year/:month/:day/:title.html
-# pretty  /:categories/:year/:month/:day/:title/
-# none  /:categories/:title.html
-permalink: pretty
-
-# _config.build.yml sets future and show_drafts to false on `grunt build`
-future: true
-show_drafts: true
-
-# Markdown library
-markdown: kramdown
-#   use_tex:    false
-#   use_divs:   false
-#   png_engine: blahtex
-#   png_dir:    images/latex
-#   png_url:    /images/latex
-
-pygments: false
-
-# base
-baseurl: "http://0.0.0.0:9000/"
+baseurl: "/remote-teams"
+url: "http://oinam.github.io/"

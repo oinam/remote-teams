@@ -1,6 +1,5 @@
-app/_bower_components
-dist
-node_modules
+_site
+.sass-cache
 
 # Ignore hidden folders #
 # This takes care of .tmp, .sass-cache, and many others #
