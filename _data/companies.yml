@@ -106,6 +106,10 @@
   url: www.xerox.com
   job: xerox-virtual.jobs
 
+- name: X-Team
+  url: x-team.com
+  job: x-team.com/join/
+
 - name: Zapier
   url: zapier.com
   job: zapier.com/jobs/
