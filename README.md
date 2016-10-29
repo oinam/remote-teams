@@ -22,4 +22,4 @@ Company details - Name, URL, Jobs URL are to be added to ```'_data/companies.yml
 
 #### LICENSE
 
-No Licence. :-)
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
