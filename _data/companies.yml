@@ -97,6 +97,10 @@
 - name: Stack Exchange
   url: stackexchange.com
   job: stackexchange.com/work-here
+  
+- name: Stitch Fix
+  url: multithreaded.stitchfix.com
+  job: multithreaded.stitchfix.com/careers
 
 - name: Upworthy
   url: www.upworthy.com
