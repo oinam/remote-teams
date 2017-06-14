@@ -2,7 +2,7 @@
 
 > An open list of companies with distributed Remote Teams.
 
-Powered by [Jekyll](http://jekyllrb.com/) and deployed on Github.
+Powered by [Jekyll](http://jekyllrb.com/) and deployed on Github - http://oinam.github.io/remote-teams
 
 #### Run locally
 
