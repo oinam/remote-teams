@@ -2,29 +2,65 @@
   url: 10up.com
   job: 10up.com/careers
 
+- name: 3DPrinterOS
+  url: 3dprinteros.com
+  job: angel.co/3dprinteros/jobs
+
+- name: Acceleration Partners
+  url: accelerationpartners.com
+  job: accelerationpartners.com/join-our-team
+
+- name: Actionable
+  url: actionable.co
+  job: actionable.co/careers
+
+- name: AdEspresso
+  url: adespresso.com
+  job: adespresso.com/jobs
+
 - name: ADP
-  url: www.adp.com
-  job: www.adp.com/careers.aspx
+  url: adp.com
+  job: adp.com/careers.aspx
+
+- name: AgileBits
+  url: agilebits.com
+  job: angel.co/agilebits/jobs
+
+- name: Aha
+  url: aha.io
+  job: aha.io/company/careers
 
 - name: Alaris Prime
   url: alarisprime.com
   job: alarisprime.com/contact
+
+- name: Alt School
+  url: altschool.com
+  job: altschool.com/jobs
+
+- name: Arkency
+  url: arkency.com
+  job: blog.arkency.com/join-our-team
+
+- name: Attentiv
+  url: attentiv.com
+  job: attentiv.com/jobs
 
 - name: AppendTo
   url: appendto.com
   job: appendto.com/careers
 
 - name: Art & Logic
-  url: www.artandlogic.com
-  job: www.artandlogic.com/careers
+  url: artandlogic.com
+  job: artandlogic.com/careers
 
 - name: Articulate
-  url: www.articulate.com
-  job: www.articulate.com/company/careers.php
+  url: articulate.com
+  job: articulate.com/company/careers
 
 - name: Assembla
-  url: www.assembla.com
-  job: www.assembla.com/team#jobs
+  url: assembla.com
+  job: assembla.com/team#jobs
 
 - name: Automattic
   url: automattic.com
@@ -39,44 +75,48 @@
   job: jobs.bufferapp.com
 
 - name: Codership
-  url: www.galeracluster.com
-  job: www.galeracluster.com/company/
+  url: galeracluster.com
+  job: galeracluster.com/company
 
 - name: Dell
-  url: www.dell.com
+  url: dell.com
   job: jobs.dell.com/search/remote
 
+- name: Engage 
+  url: engagetech.com
+  job: engagetech.workable.com
+
 - name: FlexJobs
-  url: www.flexjobs.com
-  job: www.flexjobs.com/FlexJobsTeam.aspx
+  url: flexjobs.com
+  job: flexjobs.com/FlexJobsTeam.aspx
 
 - name: Groove
   url: groovehq.com
   job: groovehq.com
 
 - name: HelpScout
-  url: www.helpscout.net
-  job: www.helpscout.net/jobs
+  url: helpscout.net
+  job: helpscout.net/jobs
 
 - name: Invision
-  url: www.invisionapp.com
-  job: www.invisionapp.com/company#jobs
+  url: invisionapp.com
+  job: invisionapp.com/company#jobs
 
 - name: Jitbit
-  url: www.jitbit.com
-  job: www.jitbit.com/company/#contact
+  url: jitbit.com
+  job: jitbit.com/company/#contact
 
 - name: K12
   url: k12.com
   job: k12.com/careers
 
 - name: Lullabot
-  url: www.lullabot.com
-  job: www.lullabot.com/jobs
+  url: lullabot.com
+  job: lullabot.com/jobs
 
 - name: Modern Tribe
   url: tri.be
-  job: tri.be/about/join-our-team/
+  job: tri.be/about/join-our-team
 
 - name: Moz
   url: moz.com
@@ -87,19 +127,19 @@
   job: careers.mozilla.org
 
 - name: Olark
-  url: www.olark.com
-  job: www.olark.com/jobs
+  url: olark.com
+  job: olark.com/jobs
 
 - name: Site5
-  url: www.site5.com
-  job: www.site5.com/about/careers
+  url: site5.com
+  job: site5.com/about/careers
 
 - name: SitePen
-  url: www.sitepen.com
-  job: www.sitepen.com/about/jobs.html
+  url: sitepen.com
+  job: sitepen.com/about/jobs.html
 
 - name: Sqwiggle
-  url: www.sqwiggle.com
+  url: sqwiggle.com
   job: angel.co/sqwiggle/jobs
 
 - name: Stack Exchange
@@ -111,21 +151,21 @@
   job: multithreaded.stitchfix.com/careers
 
 - name: Upworthy
-  url: www.upworthy.com
-  job: www.upworthy.com/jobs
+  url: upworthy.com
+  job: upworthy.com/jobs
 
 - name: WebDevStudios
   url: WebDevStudios.com
-  job: webdevstudios.com/contact/jobs/
+  job: webdevstudios.com/contact/jobs
 
 - name: Xerox
-  url: www.xerox.com
+  url: xerox.com
   job: xerox-virtual.jobs
 
 - name: X-Team
   url: x-team.com
-  job: x-team.com/join/
+  job: x-team.com/join
 
 - name: Zapier
   url: zapier.com
-  job: zapier.com/jobs/
+  job: zapier.com/jobs

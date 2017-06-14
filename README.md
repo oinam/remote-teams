@@ -1,6 +1,6 @@
 # Remote Teams
 
-> An open list of companies with Distributed Remote Teams.
+> An open list of companies with distributed Remote Teams.
 
 Powered by [Jekyll](http://jekyllrb.com/) and deployed on Github.
 
@@ -12,7 +12,7 @@ $ jekyll serve
 
 #### Deploy to Github's Page
 
-Push the ```gh-pages``` branch to Github.
+Push the ```master``` branch to Github.
 
 ### Contribute, Pull Request
 
