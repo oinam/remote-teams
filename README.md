@@ -18,7 +18,7 @@ Push the ```master``` branch to Github.
 
 Add companies that have distributed remote teams and encourage remote working. Send in your [Pull Request](https://help.github.com/articles/creating-a-pull-request).
 
-Company details - Name, URL, Jobs URL are to be added to ```'_data/companies.yml'```. Remember to order them alphabetically.
+Company details - Name, URL, Jobs URL are to be added to ```'_data/companies.yml'```.
 
 #### LICENSE
 

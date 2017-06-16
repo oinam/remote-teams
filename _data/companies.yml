@@ -1,10 +1,10 @@
-- name: 10up
-  url: 10up.com
-  job: 10up.com/careers
+- name: Alaris Prime
+  url: alarisprime.com
+  job: alarisprime.com/contact
 
-- name: 3DPrinterOS
-  url: 3dprinteros.com
-  job: angel.co/3dprinteros/jobs
+- name: Zapier
+  url: zapier.com
+  job: zapier.com/jobs
 
 - name: Acceleration Partners
   url: accelerationpartners.com
@@ -13,6 +13,14 @@
 - name: Actionable
   url: actionable.co
   job: actionable.co/careers
+
+- name: 10up
+  url: 10up.com
+  job: 10up.com/careers
+
+- name: 3DPrinterOS
+  url: 3dprinteros.com
+  job: angel.co/3dprinteros/jobs
 
 - name: AdEspresso
   url: adespresso.com
@@ -29,10 +37,6 @@
 - name: Aha
   url: aha.io
   job: aha.io/company/careers
-
-- name: Alaris Prime
-  url: alarisprime.com
-  job: alarisprime.com/contact
 
 - name: Alt School
   url: altschool.com
@@ -166,6 +170,46 @@
   url: x-team.com
   job: x-team.com/join
 
-- name: Zapier
-  url: zapier.com
-  job: zapier.com/jobs
+- name: Auth0 
+  url: auth0.com
+  job: auth0.com/jobs
+
+- name: Axelerant
+  url: axelerant.com
+  job: axelerant.com/careers
+
+- name: Azumio
+  url: azumio.com
+  job: azumio.com/s/contact/index.html#page-#careers
+
+- name: Balsamiq
+  url: balsamiq.com
+  job: balsamiq.com/company/jobs
+
+- name: Baremetrics
+  url: baremetrics.com
+  job: baremetrics.com/jobs
+
+- name: Basho
+  url: basho.com
+  job: basho.com/careers
+
+- name: Batchbook
+  url: batchbook.com
+  job: batchbook.com/Jobs
+
+- name: Bebanjo
+  url: bebanjo.com
+  job: bebanjo.com/careers
+
+- name: Better Doctor
+  url: betterdoctor.com
+  job: jobs.lever.co/betterdoctor
+
+- name: Big Universe
+  url: biguniverse.com
+  job: biguniverse.com/careers
+
+- name: Bluespark
+  url: bluespark.com
+  job: bluespark.com/join-bluespark-team
