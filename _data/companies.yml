@@ -213,3 +213,59 @@
 - name: Bluespark
   url: bluespark.com
   job: bluespark.com/join-bluespark-team
+
+- name: Bugcrowd
+  url: bugcrowd.com
+  job: bugcrowd.com/about/careers
+
+- name: Canonical
+  url: canonical.com
+  job: canonical.com/careers
+
+- name: Careers Lab
+  url: careerslab.co
+  job: careerslab.co/for-candidates
+
+- name: Datica
+  url: datica.com
+  job: datica.com/careers
+
+- name: Chef
+  url: chef.io
+  job: chef.io/careers
+
+- name: CircleCI
+  url: circleci.com
+  job: circleci.com/jobs
+
+- name: Clevertech
+  url: clevertech.biz
+  job: hire.clevertech.biz
+
+- name: Codebusters
+  url: codebusters.com
+  job: codebusters.applytojob.com/apply
+
+- name: Codeship
+  url: codeship.com
+  job: codeship.com/jobs
+
+- name: CollabNet
+  url: collab.net
+  job: collab.net/company/careers
+
+- name: Collabora
+  url: collabora.com
+  job: collabora.com/careers.html
+
+- name: Collage
+  url: collage.com
+  job: jobs.collage.com
+
+- name: Compose
+  url: compose.com
+  job: compose.com/jobs
+
+- name: Cotinu
+  url: continu.co
+  job: continu.co/careers
