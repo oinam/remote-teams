@@ -269,3 +269,51 @@
 - name: Cotinu
   url: continu.co
   job: continu.co/careers
+
+- name: Copass
+  url: copass.org
+  job: copass.org/jobs
+
+- name: Cozy
+  url: cozy.io
+  job: angel.co/cozycloud/jobs
+
+- name: Crometrics
+  url: crometrics.com
+  job: crometrics.com/jobs
+
+- name: Datastax 
+  url: datastax.com
+  job: datastax.wd5.myworkdayjobs.com/DataStaxCareers/jobs
+
+- name: Digital Ocean
+  url: digitalocean.com
+  job: digitalocean.com/company/careers
+
+- name: Dito
+  url: ditoweb.com
+  job: ditoweb.com/company/careers
+
+- name: Doist
+  url: doist.com
+  job: doist.com/jobs
+
+- name: DuckDuckGo
+  url: duckduckgo.com
+  job: duckduckgo.com/hiring
+
+- name: Elastic
+  url: elastic.co
+  job: elastic.co/about/careers
+
+- name: Erply
+  url: erply.com
+  job: erply.com/careers
+
+- name: Eyeo
+  url: eyeo.com
+  job: eyeo.com/en/jobs/
+
+- name: Fire Engine Red
+  url: fire-engine-red.com
+  job: fire-engine-red.com/about/#careers
