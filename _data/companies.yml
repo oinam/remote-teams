@@ -64,7 +64,7 @@
 
 - name: Assembla
   url: assembla.com
-  job: assembla.com/team#jobs
+  job: boards.greenhouse.io/assembla#.WTBdHBPyvBI
 
 - name: Automattic
   url: automattic.com
@@ -76,7 +76,7 @@
 
 - name: Buffer
   url: bufferapp.com
-  job: jobs.bufferapp.com
+  job: buffer.com/journey
 
 - name: Codership
   url: galeracluster.com
@@ -216,7 +216,7 @@
 
 - name: Bugcrowd
   url: bugcrowd.com
-  job: bugcrowd.com/about/careers
+  job: www.bugcrowd.com/about/careers/
 
 - name: Canonical
   url: canonical.com
