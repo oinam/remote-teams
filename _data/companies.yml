@@ -324,8 +324,92 @@
 
 - name: FormAssembly
   url: formassembly.com
-  job: formassembly.workable.com/
+  job: formassembly.workable.com
 
 - name: Fortumo
   url: fortumo.com
-  job: fortumo.com/careers/
+  job: fortumo.com/careers
+
+- name: Genuitec
+  url: genuitec.com
+  job: genuitec.com/company/careers
+
+- name: Ghost
+  url: ghost.org
+  job: ghost.org/about/#careers
+
+- name: GitBook
+  url: gitbook.com
+  job: jobs.gitbook.com
+
+- name: Github
+  url: github.com
+  job: jobs.github.com
+
+- name: Gitlab
+  url: gitlab.com
+  job: about.gitlab.com/jobs
+
+- name: Grant Street Group
+  url: grantstreet.com
+  job: grantstreet.com/careers
+
+- name: Groove
+  url: groovehq.com
+  job: groovehq.com/about#hiring
+
+- name: Harvest
+  url: getharvest.com
+  job: getharvest.com/careers
+
+- name: Heap Analytics
+  url: heapanalytics.com
+  job: heapanalytics.com/jobs
+
+- name: Dekeo
+  url: dekeo.com
+  job: dekeo.workable.com
+
+- name: Hippoed
+  url: hippoed.com
+  job: careers.hippoed.com
+
+- name: HitList 
+  url: hitlistapp.com
+  job: angel.co/hitlist-1/jobs
+
+- name: Hubstaff
+  url: hubstaff.com
+  job: hubstaff.com/jobs
+
+- name: Hudl
+  url: hudl.com
+  job: hudl.com/jobs
+
+- name: Incsub
+  url: incsub.com
+  job: incsub.com/careers
+
+- name: Inpsyde
+  url: inpsyde.com
+  job: inpsyde.com/en/jobs
+
+- name: Khan Academy
+  url: khanacademy.org
+  job: khanacademy.org/careers
+
+- name: LaterPay
+  url: laterpay.net
+  job: laterpay.net/careers
+
+- name: Linaro
+  url: linaro.org
+  job: linaro.org/careers
+
+- name: LoveToKnow
+  url: lovetoknow.com
+  job: lovetoknow.com/Careers/careers.html
+
+- name: LullaBot
+  url: lullabot.com
+  job: lullabot.com/jobs
