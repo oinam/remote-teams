@@ -38,6 +38,10 @@
   url: bufferapp.com
   job: jobs.bufferapp.com
 
+- name: CareMessage
+  url: www.caremessage.org
+  job: www.caremessage.org/careers/
+
 - name: Codership
   url: www.galeracluster.com
   job: www.galeracluster.com/company/
