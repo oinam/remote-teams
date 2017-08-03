@@ -413,3 +413,7 @@
 - name: LullaBot
   url: lullabot.com
   job: lullabot.com/jobs
+
+- name: Percona
+  url: percona.com
+  job: percona.com/about-percona/careers
