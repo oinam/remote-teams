@@ -134,6 +134,10 @@
   url: olark.com
   job: olark.com/jobs
 
+- name: SearchApi
+  url: searchapi.io
+  job: searchapi.io/careers
+
 - name: Site5
   url: site5.com
   job: site5.com/about/careers
